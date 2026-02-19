@@ -3,7 +3,7 @@
 > A production-ready AI Agent operating system with memory, learning, skills, and autonomous capabilities.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix%20-%20Skill?style=flat&logo=github&color=4285F4&label=Stars&cacheSeconds=3600)](https://github.com/mangiapanejohn-dev/Resonix%20-%20Skill/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/mangiapanejohn-dev/Resonix-Skill?style=flat&logo=github&color=4285F4&label=Stars&cacheSeconds=86400)](https://github.com/mangiapanejohn-dev/Resonix-Skill/stargazers)
 ## What is Resonix - Skill?
 
 Resonix - Skill is a comprehensive framework for building intelligent AI agents with:
