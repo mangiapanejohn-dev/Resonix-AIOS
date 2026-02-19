@@ -1,4 +1,4 @@
-# T-BUG Memory System
+# Resonix  Memory System
 
 A multi-layer memory system for AI agents, inspired by human memory architecture.
 
