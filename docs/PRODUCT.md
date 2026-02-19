@@ -165,8 +165,8 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/mangiapanejohn-dev/T-BUG-OS.git
-cd T-BUG-OS
+git clone https://github.com/mangiapanejohn-dev/Resonix - Skill.git
+cd Resonix - Skill
 
 # 2. 查看快速开始
 cat QUICKSTART.md
@@ -183,7 +183,7 @@ cat QUICKSTART.md
 ## 项目结构
 
 ```
-T-BUG-OS/
+Resonix - Skill/
 ├── Core/                  # 核心系统文档
 │   ├── memory.md         # 记忆系统
 │   ├── learning.md       # 学习系统
@@ -227,7 +227,7 @@ T-BUG-OS/
 
 ## 相关链接
 
-- 🏠 **主页**: https://github.com/mangiapanejohn-dev/T-BUG-OS
+- 🏠 **主页**: https://github.com/mangiapanejohn-dev/Resonix - Skill
 - 📖 **文档**: 见仓库 /docs 目录
 - ❓ **问题**: GitHub Issues
 - ⭐ **支持**: 欢迎Star和Fork！
