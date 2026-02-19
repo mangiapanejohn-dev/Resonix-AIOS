@@ -1,6 +1,6 @@
 # 🧠 Multi-Layer Memory System
 
-> T-BUG's memory architecture - inspired by human memory but optimized for AI agents.
+> Resonix 's memory architecture - inspired by human memory but optimized for AI agents.
 
 ## Overview
 
@@ -30,7 +30,7 @@
 
 ### 2. Semantic Memory (语义记忆)
 - **What**: Knowledge, facts, concepts, learnings
-- **Storage**: `~/Desktop/t-bug/04_记忆库/`
+- **Storage**: `~/Desktop/Resonix /04_记忆库/`
 - **When**: After research or learning
 - **Format**: Structured notes by topic
 
@@ -71,7 +71,7 @@ See `Skills/memory-system/` for the actual skill implementation.
 | Type | Path | Purpose |
 |------|------|---------|
 | Daily | `memory/YYYY-MM-DD.md` | Session logs |
-| Knowledge | `~/Desktop/t-bug/04_记忆库/` | Topic notes |
+| Knowledge | `~/Desktop/Resonix /04_记忆库/` | Topic notes |
 | Skills | `skills/` | Reusable skills |
 | Working | `HEARTBEAT.md` | Current tasks |
 | Meta | `MEMORY_INDEX.md` | Memory index |
